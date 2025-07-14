@@ -13,7 +13,7 @@
 <img src="./img/framework.png" width="100%">
 </div>
 
-The overall workflow of the Video-Text Interleaved Chain-of-Thought (ViTCoT) consists of main stages: (a) Model Input Content, (b) Initial Text Reasoning, (c) **Video-Text Interleaved Reasoning**.
+Overview: (a) Vanilla Text CoT Reasoning; (b) Video-Text Interleaved CoT Reasoning; (c) **Video-Text Interleaved Data Construction**; (d) Performance Comparison: Vanilla Reasoning Paradigm (Vanilla CoT, Vanilla Desp-CoT, and Vanilla Plan-and-Solve) vs. Video-Text Interleaved Reasoning Paradigm (ViT CoT, ViT Desp-CoT and ViT Plan-and-Solve) on Qwen2.5-VL-7B.
 
 ## Preparation steps: environment installation
 (1) Environment installation command:

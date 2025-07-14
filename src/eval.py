@@ -3,7 +3,7 @@ import re
 from prettytable import PrettyTable
 
 # Load JSONL file
-file_path = "/Volumes/Video/video/vitcot_stage2.jsonl"
+file_path = "vitcot_stage2.jsonl"
 
 data = []
 with open(file_path, 'r', encoding='utf-8') as file:

@@ -7,7 +7,7 @@
 </div>
 
 \
-📷 This is the code repository for the paper: ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models. **ACM MM 2024**.
+📷 This is the code repository for the paper: ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models. **ACM MM 2025**.
 
 <div>
 <img src="./img/framework.png" width="100%">
